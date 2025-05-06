@@ -6,12 +6,12 @@ Interactive dashboard developed in Power BI, focusing on data transformation, mo
 ---
 
 ## 📄 Personal Finances  
-![Dashboard Page 1](assets/Pg1_Relatorio_Financas_Pessoais.png)  
+![Dashboard Page 1](assets/Pg1_Relatorio_Financas_Pessoais.png) 
 ![Dashboard Page 2](assets/Pg2_Relatorio_Financas_Pessoais.png)
 
 ## 📄 Financial Overview  
-![Dashboard Page 1](assets/Pg1_Relatorio_Financeiro.png)  
-![Dashboard Page 2](assets/Pg2_Relatorio_Financeiro_Pagamentos.png)  
+![Dashboard Page 1](assets/Pg1_Relatorio_Financeiro.png)
+![Dashboard Page 2](assets/Pg2_Relatorio_Financeiro_Pagamentos.png)
 ![Dashboard Page 3](assets/Pg2_Relatorio_Financeiro_Recebimentos.png)
 
 ## 📄 Purchasing  
